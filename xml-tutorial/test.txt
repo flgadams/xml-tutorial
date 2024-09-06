@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>my title  t</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Another title t</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>IDECodeSnippetCompletionPrefix</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetCompletionScopes</key>
+      <array>
+         <string>All</string>
+      </array>
+      <key>IDECodeSnippetContents</key>
+      <string>let cAsData = try! NSKeyedArchiver.archivedData(withRootObject: &lt;#INSTANCE#&gt;, requiringSecureCoding: true)</string>
+      <key>IDECodeSnippetIdentifier</key>
+      <string>FF13C12A-4320-4BDD-8ABB-09C9C4C35605</string>
+      <key>IDECodeSnippetLanguage</key>
+      <string>Xcode.SourceCodeLanguage.Swift</string>
+      <key>IDECodeSnippetPlatformFamily</key>
+      <string>iphoneos</string>
+      <key>IDECodeSnippetSummary</key>
+      <string>zxccserialize</string>
+      <key>IDECodeSnippetTitle</key>
+      <string>Serialize an object</string>
+      <key>IDECodeSnippetUserSnippet</key>
+      <true />
+      <key>IDECodeSnippetVersion</key>
+      <integer>2</integer>
+   </dict>
+</plist>
