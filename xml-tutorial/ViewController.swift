@@ -119,49 +119,35 @@ class ViewController: UIViewController {
     }
     
     func processTitle(_ line:String , _ index:Int , _ lines: [String]) {
-        print("title is in : ")
-        var indexOfValue = index + 1
-        print(lines[indexOfValue])
-        var value = lines[indexOfValue]
-       var editedValue = value.replacingOccurrences(of: END_OF_STRING_TAG, with: "")
-        print(editedValue)
-       var finalValue = editedValue.replacingOccurrences(of: START_OF_STRING_TAG, with: "")
-       print(finalValue)
-        snippet.title = finalValue
+        snippet.title = stripTags(lines[index+1])
         print(snippet.title)
     }
-    func stripTags(_ value :String) -> String {
-        var editedValue = value.replacingOccurrences(of: END_OF_STRING_TAG, with: "")
-        var finalValue = editedValue.replacingOccurrences(of: START_OF_STRING_TAG, with: "")
-        return finalValue
-    }
+
     func processId(_ line:String , _ index:Int, _ lines: [String]) {
-        print("Id")
-        var indexOfValue = index + 1
-        print(lines[indexOfValue])
+        snippet.Id = stripTags(lines[index+1])
+        print(snippet.Id)
     }
     
     func processSummary(_ line:String ,_ index:Int, _ lines: [String]) {
-        print("Summary")
-        var indexOfValue = index + 1
-        print(lines[indexOfValue])
+        snippet.summary = stripTags(lines[index+1])
+        print(snippet.summary)
     }
     func processPrefix(_ line:String , _ index:Int, _ lines: [String]) {
-        print("Prefix")
-        var indexOfValue = index + 1
-        print(lines[indexOfValue])
+        snippet.completionPrefix = stripTags(lines[index+1])
+        print(snippet.completionPrefix)
     }
     func processContents(_ line:String, _ index:Int , _ lines: [String]) {
-        print("Contents:")
-        var indexOfValue = index + 1
-        print(lines[indexOfValue])
+        snippet.contents = stripTags(lines[index+1])
     }
     func processLanguage(_ line:String , _ index:Int, _ lines: [String]) {
-        print("Language")
-        var indexOfValue = index + 1
-        print(lines[indexOfValue])
+        snippet.language = stripTags(lines[index+1])
+        print(snippet.language)
     }
-    
+    func stripTags(_ value :String) -> String {
+        var editedValue = value.replacingOccurrences(of: END_OF_STRING_TAG, with: "")
+        editedValue = editedValue.replacingOccurrences(of: START_OF_STRING_TAG, with: "")
+        return editedValue
+    }
     lazy var myLabel:UILabel = {
         let ui = UILabel()
         ui.text = "file data"
